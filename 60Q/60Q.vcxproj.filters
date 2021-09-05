@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\1~10">
+      <UniqueIdentifier>{ee30d078-2981-46ad-9cd3-d020e05c1fd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\11~20">
+      <UniqueIdentifier>{175debde-664a-4003-8885-e7ac00e7a4c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\21~30">
+      <UniqueIdentifier>{74ff0610-988c-4508-b1b8-682891618f85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\31~40">
+      <UniqueIdentifier>{dca4d164-e296-4050-95fb-c8a98f64afcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\41~50">
+      <UniqueIdentifier>{c3dac951-6fa6-42e4-ae42-d5e073b8685b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\51~60">
+      <UniqueIdentifier>{4d547578-3013-4e33-bdae-85282ba4b1b8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\c\60문제\하트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1번.c">
+      <Filter>소스 파일\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="2번.c">
+      <Filter>소스 파일\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="3번.c">
+      <Filter>소스 파일\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="4번.c">
+      <Filter>소스 파일\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="5번.c">
+      <Filter>소스 파일\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="6번.c">
+      <Filter>소스 파일\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="7번.c">
+      <Filter>소스 파일\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="8번.c">
+      <Filter>소스 파일\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="9번.c">
+      <Filter>소스 파일\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="10번.c">
+      <Filter>소스 파일\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="11번.c">
+      <Filter>소스 파일\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="12번.c">
+      <Filter>소스 파일\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="13번.c">
+      <Filter>소스 파일\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="14번.c">
+      <Filter>소스 파일\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="15번.c">
+      <Filter>소스 파일\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="16번.c">
+      <Filter>소스 파일\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="17번.c">
+      <Filter>소스 파일\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="18번.c">
+      <Filter>소스 파일\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="19번.c">
+      <Filter>소스 파일\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="20번.c">
+      <Filter>소스 파일\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="21번.c">
+      <Filter>소스 파일\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="22번.c">
+      <Filter>소스 파일\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="23번.c">
+      <Filter>소스 파일\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="24번.c">
+      <Filter>소스 파일\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="25번.c">
+      <Filter>소스 파일\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="26번.c">
+      <Filter>소스 파일\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="27번.c">
+      <Filter>소스 파일\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="28번.c">
+      <Filter>소스 파일\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="29번.c">
+      <Filter>소스 파일\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="30번.c">
+      <Filter>소스 파일\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="31번.c">
+      <Filter>소스 파일\31~40</Filter>
+    </ClCompile>
+    <ClCompile Include="32번.c">
+      <Filter>소스 파일\31~40</Filter>
+    </ClCompile>
+    <ClCompile Include="33번.c">
+      <Filter>소스 파일\31~40</Filter>
+    </ClCompile>
+    <ClCompile Include="34번.c">
+      <Filter>소스 파일\31~40</Filter>
+    </ClCompile>
+    <ClCompile Include="35번.c">
+      <Filter>소스 파일\31~40</Filter>
+    </ClCompile>
+    <ClCompile Include="36번.c">
+      <Filter>소스 파일\31~40</Filter>
+    </ClCompile>
+    <ClCompile Include="37번.c">
+      <Filter>소스 파일\31~40</Filter>
+    </ClCompile>
+    <ClCompile Include="38번.c">
+      <Filter>소스 파일\31~40</Filter>
+    </ClCompile>
+    <ClCompile Include="39번.c">
+      <Filter>소스 파일\31~40</Filter>
+    </ClCompile>
+    <ClCompile Include="40번.c">
+      <Filter>소스 파일\31~40</Filter>
+    </ClCompile>
+    <ClCompile Include="41번.c">
+      <Filter>소스 파일\41~50</Filter>
+    </ClCompile>
+    <ClCompile Include="42번.c">
+      <Filter>소스 파일\41~50</Filter>
+    </ClCompile>
+    <ClCompile Include="43번.c">
+      <Filter>소스 파일\41~50</Filter>
+    </ClCompile>
+    <ClCompile Include="44번.c">
+      <Filter>소스 파일\41~50</Filter>
+    </ClCompile>
+    <ClCompile Include="45번.c">
+      <Filter>소스 파일\41~50</Filter>
+    </ClCompile>
+    <ClCompile Include="46번.c">
+      <Filter>소스 파일\41~50</Filter>
+    </ClCompile>
+    <ClCompile Include="47번.c">
+      <Filter>소스 파일\41~50</Filter>
+    </ClCompile>
+    <ClCompile Include="48번.c">
+      <Filter>소스 파일\41~50</Filter>
+    </ClCompile>
+    <ClCompile Include="49번.c">
+      <Filter>소스 파일\41~50</Filter>
+    </ClCompile>
+    <ClCompile Include="50번.c">
+      <Filter>소스 파일\41~50</Filter>
+    </ClCompile>
+    <ClCompile Include="51번.c">
+      <Filter>소스 파일\51~60</Filter>
+    </ClCompile>
+    <ClCompile Include="52번.c">
+      <Filter>소스 파일\51~60</Filter>
+    </ClCompile>
+    <ClCompile Include="53번.c">
+      <Filter>소스 파일\51~60</Filter>
+    </ClCompile>
+    <ClCompile Include="54번.c">
+      <Filter>소스 파일\51~60</Filter>
+    </ClCompile>
+    <ClCompile Include="55번.c">
+      <Filter>소스 파일\51~60</Filter>
+    </ClCompile>
+    <ClCompile Include="56번.c">
+      <Filter>소스 파일\51~60</Filter>
+    </ClCompile>
+    <ClCompile Include="57번.c">
+      <Filter>소스 파일\51~60</Filter>
+    </ClCompile>
+    <ClCompile Include="58번.c">
+      <Filter>소스 파일\51~60</Filter>
+    </ClCompile>
+    <ClCompile Include="59번.c">
+      <Filter>소스 파일\51~60</Filter>
+    </ClCompile>
+    <ClCompile Include="60번.c">
+      <Filter>소스 파일\51~60</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

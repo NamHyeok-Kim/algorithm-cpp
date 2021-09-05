@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\구조체">
+      <UniqueIdentifier>{5be48f83-51df-45ac-a3a2-a89cbde7920b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\파일">
+      <UniqueIdentifier>{9777977e-3a39-4cc3-8cf0-dda1f91a3ae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\동적메모리">
+      <UniqueIdentifier>{807020e2-4b8b-4099-bb87-50d292c5afb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문자열">
+      <UniqueIdentifier>{4228a39d-a030-4a92-a4a8-df38b7d30362}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="문자겟수.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 문제 4.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 문제 8.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 문제 9.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 문제.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="예제.c">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="삼번.c">
+      <Filter>소스 파일\동적메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="연습.c">
+      <Filter>소스 파일\동적메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="예제 2.c">
+      <Filter>소스 파일\동적메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="이번.c">
+      <Filter>소스 파일\동적메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="일번.c">
+      <Filter>소스 파일\동적메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="프린트 문제 2.c">
+      <Filter>소스 파일\동적메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="프린트문제 1.c">
+      <Filter>소스 파일\동적메모리</Filter>
+    </ClCompile>
+    <ClCompile Include="fileMOD.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="textfile생성.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="text파일 복사.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파일 문제.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파일 문제3.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파일 읽기.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파일.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파일삭제.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="한 글자씩 쓰기.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="한 글자씩 읽기.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="한 줄씩 읽고쓰기.c">
+      <Filter>소스 파일\파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 포인터.c">
+      <Filter>소스 파일\구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 함수.c">
+      <Filter>소스 파일\구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체.c">
+      <Filter>소스 파일\구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="입력한 값 까지합.c">
+      <Filter>소스 파일\구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="점 사이의 길이.c">
+      <Filter>소스 파일\구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="띵.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이차방정식.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
