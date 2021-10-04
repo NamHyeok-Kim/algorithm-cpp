@@ -3,5 +3,4 @@ project(algorithm_cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(algorithm_cpp
-        wow.cpp)
+add_executable(algorithm_cpp programmers/kakaoblind2.cpp)

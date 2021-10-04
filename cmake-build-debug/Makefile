@@ -129,29 +129,29 @@ algorithm_cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/build
 .PHONY : algorithm_cpp/fast
 
-wow.o: wow.cpp.o
-.PHONY : wow.o
+programmers/kakaoblind2.o: programmers/kakaoblind2.cpp.o
+.PHONY : programmers/kakaoblind2.o
 
 # target to build an object file
-wow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/wow.cpp.o
-.PHONY : wow.cpp.o
+programmers/kakaoblind2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/kakaoblind2.cpp.o
+.PHONY : programmers/kakaoblind2.cpp.o
 
-wow.i: wow.cpp.i
-.PHONY : wow.i
+programmers/kakaoblind2.i: programmers/kakaoblind2.cpp.i
+.PHONY : programmers/kakaoblind2.i
 
 # target to preprocess a source file
-wow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/wow.cpp.i
-.PHONY : wow.cpp.i
+programmers/kakaoblind2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/kakaoblind2.cpp.i
+.PHONY : programmers/kakaoblind2.cpp.i
 
-wow.s: wow.cpp.s
-.PHONY : wow.s
+programmers/kakaoblind2.s: programmers/kakaoblind2.cpp.s
+.PHONY : programmers/kakaoblind2.s
 
 # target to generate assembly for a file
-wow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/wow.cpp.s
-.PHONY : wow.cpp.s
+programmers/kakaoblind2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/kakaoblind2.cpp.s
+.PHONY : programmers/kakaoblind2.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... algorithm_cpp"
-	@echo "... wow.o"
-	@echo "... wow.i"
-	@echo "... wow.s"
+	@echo "... programmers/kakaoblind2.o"
+	@echo "... programmers/kakaoblind2.i"
+	@echo "... programmers/kakaoblind2.s"
 .PHONY : help
 
 

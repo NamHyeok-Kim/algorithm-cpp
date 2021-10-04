@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algorithm_cpp.dir/wow.cpp.o"
+  "CMakeFiles/algorithm_cpp.dir/programmers/kakaoblind2.cpp.o"
   "algorithm_cpp"
   "algorithm_cpp.pdb"
 )

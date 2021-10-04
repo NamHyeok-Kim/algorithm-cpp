@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/eugene/eugene-lab/algorithm-cpp/wow.cpp" "/Users/eugene/eugene-lab/algorithm-cpp/cmake-build-debug/CMakeFiles/algorithm_cpp.dir/wow.cpp.o"
+  "/Users/eugene/eugene-lab/algorithm-cpp/programmers/kakaoblind2.cpp" "/Users/eugene/eugene-lab/algorithm-cpp/cmake-build-debug/CMakeFiles/algorithm_cpp.dir/programmers/kakaoblind2.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
