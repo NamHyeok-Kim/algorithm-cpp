@@ -129,29 +129,29 @@ algorithm_cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/build
 .PHONY : algorithm_cpp/fast
 
-bronz.o: bronz.cpp.o
-.PHONY : bronz.o
+boj/양팔저울.o: boj/양팔저울.cpp.o
+.PHONY : boj/양팔저울.o
 
 # target to build an object file
-bronz.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/bronz.cpp.o
-.PHONY : bronz.cpp.o
+boj/양팔저울.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/boj/양팔저울.cpp.o
+.PHONY : boj/양팔저울.cpp.o
 
-bronz.i: bronz.cpp.i
-.PHONY : bronz.i
+boj/양팔저울.i: boj/양팔저울.cpp.i
+.PHONY : boj/양팔저울.i
 
 # target to preprocess a source file
-bronz.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/bronz.cpp.i
-.PHONY : bronz.cpp.i
+boj/양팔저울.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/boj/양팔저울.cpp.i
+.PHONY : boj/양팔저울.cpp.i
 
-bronz.s: bronz.cpp.s
-.PHONY : bronz.s
+boj/양팔저울.s: boj/양팔저울.cpp.s
+.PHONY : boj/양팔저울.s
 
 # target to generate assembly for a file
-bronz.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/bronz.cpp.s
-.PHONY : bronz.cpp.s
+boj/양팔저울.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/boj/양팔저울.cpp.s
+.PHONY : boj/양팔저울.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... algorithm_cpp"
-	@echo "... bronz.o"
-	@echo "... bronz.i"
-	@echo "... bronz.s"
+	@echo "... boj/양팔저울.o"
+	@echo "... boj/양팔저울.i"
+	@echo "... boj/양팔저울.s"
 .PHONY : help
 
 

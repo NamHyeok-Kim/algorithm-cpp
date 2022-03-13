@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algorithm_cpp.dir/bronz.cpp.o"
-  "CMakeFiles/algorithm_cpp.dir/bronz.cpp.o.d"
+  "CMakeFiles/algorithm_cpp.dir/boj/양팔저울.cpp.o"
+  "CMakeFiles/algorithm_cpp.dir/boj/양팔저울.cpp.o.d"
   "algorithm_cpp"
   "algorithm_cpp.pdb"
 )

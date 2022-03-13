@@ -3,4 +3,4 @@ project(algorithm_cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(algorithm_cpp bronz.cpp)
+add_executable(algorithm_cpp boj/양팔저울.cpp)

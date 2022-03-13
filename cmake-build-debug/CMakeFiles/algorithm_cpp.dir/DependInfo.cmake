@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/eugene/eugene-lab/algorithm-cpp/bronz.cpp" "CMakeFiles/algorithm_cpp.dir/bronz.cpp.o" "gcc" "CMakeFiles/algorithm_cpp.dir/bronz.cpp.o.d"
+  "/Users/eugene/eugene-lab/algorithm-cpp/boj/양팔저울.cpp" "CMakeFiles/algorithm_cpp.dir/boj/양팔저울.cpp.o" "gcc" "CMakeFiles/algorithm_cpp.dir/boj/양팔저울.cpp.o.d"
   )
 
 # Targets to which this target links.
