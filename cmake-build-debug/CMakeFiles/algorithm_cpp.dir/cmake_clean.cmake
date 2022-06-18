@@ -1,6 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algorithm_cpp.dir/boj/양팔저울.cpp.o"
-  "CMakeFiles/algorithm_cpp.dir/boj/양팔저울.cpp.o.d"
+  "CMakeFiles/algorithm_cpp.dir/boj/123.cpp.o"
+  "CMakeFiles/algorithm_cpp.dir/boj/123.cpp.o.d"
+  "CMakeFiles/algorithm_cpp.dir/programmers/biggest_num.cpp.o"
+  "CMakeFiles/algorithm_cpp.dir/programmers/biggest_num.cpp.o.d"
+  "CMakeFiles/algorithm_cpp.dir/programmers/모의고사.cpp.o"
+  "CMakeFiles/algorithm_cpp.dir/programmers/모의고사.cpp.o.d"
+  "CMakeFiles/algorithm_cpp.dir/programmers/위장.cpp.o"
+  "CMakeFiles/algorithm_cpp.dir/programmers/위장.cpp.o.d"
   "algorithm_cpp"
   "algorithm_cpp.pdb"
 )

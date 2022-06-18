@@ -14,7 +14,7 @@ void dfs(int now)
     for(int i : adj[now]){
         if(!visited[i]) dfs(i);
     }
-}
+
 void bfs(int start)
 {
     queue<int>q;
@@ -22,7 +22,7 @@ void bfs(int start)
     visited[start] = true;
     while(!q.empty()) {
         int now = q.front();
-        q.pop();
+        q.pop()n ;
         cout << now + 1 << ' ';
         for (int i : adj[now]) {
             if (!visited[i]) {
