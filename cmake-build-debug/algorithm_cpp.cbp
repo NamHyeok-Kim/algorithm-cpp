@@ -80,16 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/eugene/eugene-lab/algorithm-cpp/boj/123.cpp">
-			<Option target="algorithm_cpp"/>
-		</Unit>
-		<Unit filename="/Users/eugene/eugene-lab/algorithm-cpp/programmers/biggest_num.cpp">
-			<Option target="algorithm_cpp"/>
-		</Unit>
-		<Unit filename="/Users/eugene/eugene-lab/algorithm-cpp/programmers/모의고사.cpp">
-			<Option target="algorithm_cpp"/>
-		</Unit>
-		<Unit filename="/Users/eugene/eugene-lab/algorithm-cpp/programmers/위장.cpp">
+		<Unit filename="/Users/eugene/eugene-lab/algorithm-cpp/2week/prim.cpp">
 			<Option target="algorithm_cpp"/>
 		</Unit>
 		<Unit filename="/Users/eugene/eugene-lab/algorithm-cpp/CMakeLists.txt">

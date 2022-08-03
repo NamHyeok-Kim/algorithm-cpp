@@ -129,101 +129,29 @@ algorithm_cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/build
 .PHONY : algorithm_cpp/fast
 
-boj/123.o: boj/123.cpp.o
-.PHONY : boj/123.o
+2week/prim.o: 2week/prim.cpp.o
+.PHONY : 2week/prim.o
 
 # target to build an object file
-boj/123.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/boj/123.cpp.o
-.PHONY : boj/123.cpp.o
+2week/prim.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o
+.PHONY : 2week/prim.cpp.o
 
-boj/123.i: boj/123.cpp.i
-.PHONY : boj/123.i
-
-# target to preprocess a source file
-boj/123.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/boj/123.cpp.i
-.PHONY : boj/123.cpp.i
-
-boj/123.s: boj/123.cpp.s
-.PHONY : boj/123.s
-
-# target to generate assembly for a file
-boj/123.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/boj/123.cpp.s
-.PHONY : boj/123.cpp.s
-
-programmers/biggest_num.o: programmers/biggest_num.cpp.o
-.PHONY : programmers/biggest_num.o
-
-# target to build an object file
-programmers/biggest_num.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/biggest_num.cpp.o
-.PHONY : programmers/biggest_num.cpp.o
-
-programmers/biggest_num.i: programmers/biggest_num.cpp.i
-.PHONY : programmers/biggest_num.i
+2week/prim.i: 2week/prim.cpp.i
+.PHONY : 2week/prim.i
 
 # target to preprocess a source file
-programmers/biggest_num.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/biggest_num.cpp.i
-.PHONY : programmers/biggest_num.cpp.i
+2week/prim.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.i
+.PHONY : 2week/prim.cpp.i
 
-programmers/biggest_num.s: programmers/biggest_num.cpp.s
-.PHONY : programmers/biggest_num.s
-
-# target to generate assembly for a file
-programmers/biggest_num.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/biggest_num.cpp.s
-.PHONY : programmers/biggest_num.cpp.s
-
-programmers/모의고사.o: programmers/모의고사.cpp.o
-.PHONY : programmers/모의고사.o
-
-# target to build an object file
-programmers/모의고사.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/모의고사.cpp.o
-.PHONY : programmers/모의고사.cpp.o
-
-programmers/모의고사.i: programmers/모의고사.cpp.i
-.PHONY : programmers/모의고사.i
-
-# target to preprocess a source file
-programmers/모의고사.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/모의고사.cpp.i
-.PHONY : programmers/모의고사.cpp.i
-
-programmers/모의고사.s: programmers/모의고사.cpp.s
-.PHONY : programmers/모의고사.s
+2week/prim.s: 2week/prim.cpp.s
+.PHONY : 2week/prim.s
 
 # target to generate assembly for a file
-programmers/모의고사.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/모의고사.cpp.s
-.PHONY : programmers/모의고사.cpp.s
-
-programmers/위장.o: programmers/위장.cpp.o
-.PHONY : programmers/위장.o
-
-# target to build an object file
-programmers/위장.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/위장.cpp.o
-.PHONY : programmers/위장.cpp.o
-
-programmers/위장.i: programmers/위장.cpp.i
-.PHONY : programmers/위장.i
-
-# target to preprocess a source file
-programmers/위장.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/위장.cpp.i
-.PHONY : programmers/위장.cpp.i
-
-programmers/위장.s: programmers/위장.cpp.s
-.PHONY : programmers/위장.s
-
-# target to generate assembly for a file
-programmers/위장.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/위장.cpp.s
-.PHONY : programmers/위장.cpp.s
+2week/prim.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.s
+.PHONY : 2week/prim.cpp.s
 
 # Help Target
 help:
@@ -234,18 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... algorithm_cpp"
-	@echo "... boj/123.o"
-	@echo "... boj/123.i"
-	@echo "... boj/123.s"
-	@echo "... programmers/biggest_num.o"
-	@echo "... programmers/biggest_num.i"
-	@echo "... programmers/biggest_num.s"
-	@echo "... programmers/모의고사.o"
-	@echo "... programmers/모의고사.i"
-	@echo "... programmers/모의고사.s"
-	@echo "... programmers/위장.o"
-	@echo "... programmers/위장.i"
-	@echo "... programmers/위장.s"
+	@echo "... 2week/prim.o"
+	@echo "... 2week/prim.i"
+	@echo "... 2week/prim.s"
 .PHONY : help
 
 

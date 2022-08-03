@@ -8,10 +8,7 @@ int N;
 
 void dfs(int now)
 {
-    visited[now] = true;
-    for (int i : city[now]) {
-        if (!visited[i]) dfs(i);
-    }
+
 }
 
 int main()
@@ -25,7 +22,6 @@ int main()
         }
     }
     for (int i = 0; i < N; i++) {
-        dfs(i);
-        fill(visited.begin(), visited.end(), false);
+
     }
 }
