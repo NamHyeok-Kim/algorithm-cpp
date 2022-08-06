@@ -129,29 +129,53 @@ algorithm_cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/build
 .PHONY : algorithm_cpp/fast
 
-2week/prim.o: 2week/prim.cpp.o
-.PHONY : 2week/prim.o
+boj/make1.o: boj/make1.cpp.o
+.PHONY : boj/make1.o
 
 # target to build an object file
-2week/prim.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o
-.PHONY : 2week/prim.cpp.o
+boj/make1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o
+.PHONY : boj/make1.cpp.o
 
-2week/prim.i: 2week/prim.cpp.i
-.PHONY : 2week/prim.i
+boj/make1.i: boj/make1.cpp.i
+.PHONY : boj/make1.i
 
 # target to preprocess a source file
-2week/prim.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.i
-.PHONY : 2week/prim.cpp.i
+boj/make1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.i
+.PHONY : boj/make1.cpp.i
 
-2week/prim.s: 2week/prim.cpp.s
-.PHONY : 2week/prim.s
+boj/make1.s: boj/make1.cpp.s
+.PHONY : boj/make1.s
 
 # target to generate assembly for a file
-2week/prim.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.s
-.PHONY : 2week/prim.cpp.s
+boj/make1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.s
+.PHONY : boj/make1.cpp.s
+
+programmers/국민대2번.o: programmers/국민대2번.cpp.o
+.PHONY : programmers/국민대2번.o
+
+# target to build an object file
+programmers/국민대2번.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o
+.PHONY : programmers/국민대2번.cpp.o
+
+programmers/국민대2번.i: programmers/국민대2번.cpp.i
+.PHONY : programmers/국민대2번.i
+
+# target to preprocess a source file
+programmers/국민대2번.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.i
+.PHONY : programmers/국민대2번.cpp.i
+
+programmers/국민대2번.s: programmers/국민대2번.cpp.s
+.PHONY : programmers/국민대2번.s
+
+# target to generate assembly for a file
+programmers/국민대2번.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_cpp.dir/build.make CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.s
+.PHONY : programmers/국민대2번.cpp.s
 
 # Help Target
 help:
@@ -162,9 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... algorithm_cpp"
-	@echo "... 2week/prim.o"
-	@echo "... 2week/prim.i"
-	@echo "... 2week/prim.s"
+	@echo "... boj/make1.o"
+	@echo "... boj/make1.i"
+	@echo "... boj/make1.s"
+	@echo "... programmers/국민대2번.o"
+	@echo "... programmers/국민대2번.i"
+	@echo "... programmers/국민대2번.s"
 .PHONY : help
 
 

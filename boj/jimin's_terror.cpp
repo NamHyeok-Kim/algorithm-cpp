@@ -21,7 +21,7 @@ int main()
         int x, y;
         cin >> p[i].first >> p[i].second;
     }
-    for(int i = 0; i < 3; i++)q
+    for(int i = 0; i < 3; i++)
 
     int xx, yy;
     cin >> xx >> yy;

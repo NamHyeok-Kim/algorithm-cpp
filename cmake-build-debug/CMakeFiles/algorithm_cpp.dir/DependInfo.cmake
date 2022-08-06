@@ -8,7 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/eugene/eugene-lab/algorithm-cpp/2week/prim.cpp" "CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o" "gcc" "CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o.d"
+  "/Users/eugene/eugene-lab/algorithm-cpp/boj/make1.cpp" "CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o" "gcc" "CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o.d"
+  "/Users/eugene/eugene-lab/algorithm-cpp/programmers/국민대2번.cpp" "CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o" "gcc" "CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o.d"
   )
 
 # Targets to which this target links.

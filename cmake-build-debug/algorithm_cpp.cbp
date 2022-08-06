@@ -80,7 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/eugene/eugene-lab/algorithm-cpp/2week/prim.cpp">
+		<Unit filename="/Users/eugene/eugene-lab/algorithm-cpp/boj/make1.cpp">
+			<Option target="algorithm_cpp"/>
+		</Unit>
+		<Unit filename="/Users/eugene/eugene-lab/algorithm-cpp/programmers/국민대2번.cpp">
 			<Option target="algorithm_cpp"/>
 		</Unit>
 		<Unit filename="/Users/eugene/eugene-lab/algorithm-cpp/CMakeLists.txt">

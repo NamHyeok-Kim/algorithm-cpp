@@ -69,31 +69,47 @@ include CMakeFiles/algorithm_cpp.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/algorithm_cpp.dir/flags.make
 
-CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o: CMakeFiles/algorithm_cpp.dir/flags.make
-CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o: ../2week/prim.cpp
-CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o: CMakeFiles/algorithm_cpp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eugene/eugene-lab/algorithm-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o -MF CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o.d -o CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o -c /Users/eugene/eugene-lab/algorithm-cpp/2week/prim.cpp
+CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o: CMakeFiles/algorithm_cpp.dir/flags.make
+CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o: ../boj/make1.cpp
+CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o: CMakeFiles/algorithm_cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eugene/eugene-lab/algorithm-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o -MF CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o.d -o CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o -c /Users/eugene/eugene-lab/algorithm-cpp/boj/make1.cpp
 
-CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eugene/eugene-lab/algorithm-cpp/2week/prim.cpp > CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.i
+CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eugene/eugene-lab/algorithm-cpp/boj/make1.cpp > CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.i
 
-CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eugene/eugene-lab/algorithm-cpp/2week/prim.cpp -o CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.s
+CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eugene/eugene-lab/algorithm-cpp/boj/make1.cpp -o CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.s
+
+CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o: CMakeFiles/algorithm_cpp.dir/flags.make
+CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o: ../programmers/국민대2번.cpp
+CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o: CMakeFiles/algorithm_cpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eugene/eugene-lab/algorithm-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o -MF CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o.d -o CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o -c /Users/eugene/eugene-lab/algorithm-cpp/programmers/국민대2번.cpp
+
+CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eugene/eugene-lab/algorithm-cpp/programmers/국민대2번.cpp > CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.i
+
+CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eugene/eugene-lab/algorithm-cpp/programmers/국민대2번.cpp -o CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.s
 
 # Object files for target algorithm_cpp
 algorithm_cpp_OBJECTS = \
-"CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o"
+"CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o" \
+"CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o"
 
 # External object files for target algorithm_cpp
 algorithm_cpp_EXTERNAL_OBJECTS =
 
-algorithm_cpp: CMakeFiles/algorithm_cpp.dir/2week/prim.cpp.o
+algorithm_cpp: CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o
+algorithm_cpp: CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o
 algorithm_cpp: CMakeFiles/algorithm_cpp.dir/build.make
 algorithm_cpp: CMakeFiles/algorithm_cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/eugene/eugene-lab/algorithm-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable algorithm_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/eugene/eugene-lab/algorithm-cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable algorithm_cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm_cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
