@@ -3,4 +3,4 @@ project(algorithm_cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(algorithm_cpp boj/make1.cpp programmers/국민대2번.cpp)
+add_executable(algorithm_cpp 2week/meal.cpp)

@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o"
-  "CMakeFiles/algorithm_cpp.dir/boj/make1.cpp.o.d"
-  "CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o"
-  "CMakeFiles/algorithm_cpp.dir/programmers/국민대2번.cpp.o.d"
+  "CMakeFiles/algorithm_cpp.dir/2week/meal.cpp.o"
+  "CMakeFiles/algorithm_cpp.dir/2week/meal.cpp.o.d"
   "algorithm_cpp"
   "algorithm_cpp.pdb"
 )
